@@ -25,5 +25,5 @@ Here’s a little about me:
 ## Amazon Web Services Certifications
 
 <p align="center">
- <img src="https://github.com/rubenmfr91/rubenmfr91/blob/main/dva.png" alt="Amazon Web Services DVA-C01" width="400"/>
+ <img src="https://github.com/rubenmfr91/rubenmfr91/blob/main/dva.png" alt="Amazon Web Services DVA-C01" width="380"/>
 </p>
