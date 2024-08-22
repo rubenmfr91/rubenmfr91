@@ -15,3 +15,8 @@ Here’s a little about me:
 - Tools: Visual Studio, Git, Docker, Android Studio, XCode.
 - Frameworks: Angular, React, .NET, Echo.
 
+## Certifications
+
+![Microsoft AZ-204](https://github.com/rubenmfr91/rubenmfr91/blob/main/az204.png)
+![Microsoft PL-400](https://github.com/rubenmfr91/rubenmfr91/blob/main/pl400-removebg-preview.png)
+![Amazon Web Services DVA-C01](https://github.com/rubenmfr91/rubenmfr91/blob/main/dva.png)
