@@ -17,6 +17,8 @@ Here’s a little about me:
 
 ## Certifications
 
-![Microsoft AZ-204](https://github.com/rubenmfr91/rubenmfr91/blob/main/az204.png)
-![Microsoft PL-400](https://github.com/rubenmfr91/rubenmfr91/blob/main/pl400-removebg-preview.png)
-![Amazon Web Services DVA-C01](https://github.com/rubenmfr91/rubenmfr91/blob/main/dva.png)
+<p align="center">
+  <img src="https://github.com/rubenmfr91/rubenmfr91/blob/main/az204.png" alt="Microsoft AZ-204" width="150"/>
+  <img src="https://github.com/rubenmfr91/rubenmfr91/blob/main/pl400-removebg-preview.png" alt="Microsoft PL-400" width="150"/>
+  <img src="https://github.com/rubenmfr91/rubenmfr91/blob/main/dva.png" alt="Amazon Web Services DVA-C01" width="150"/>
+</p>
