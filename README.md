@@ -15,10 +15,15 @@ Here’s a little about me:
 - Tools: Visual Studio, Git, Docker, Android Studio, XCode.
 - Frameworks: Angular, React, .NET, Echo.
 
-## Certifications
+## Microsoft Certifications
 
 <p align="center">
   <img src="https://github.com/rubenmfr91/rubenmfr91/blob/main/az204.png" alt="Microsoft AZ-204" width="250"/>
   <img src="https://github.com/rubenmfr91/rubenmfr91/blob/main/pl400-removebg-preview.png" alt="Microsoft PL-400" width="250"/>
-  <img src="https://github.com/rubenmfr91/rubenmfr91/blob/main/dva.png" alt="Amazon Web Services DVA-C01" width="450"/>
+</p>
+
+## Amazon Web Services Certifications
+
+<p align="center">
+ <img src="https://github.com/rubenmfr91/rubenmfr91/blob/main/dva.png" alt="Amazon Web Services DVA-C01" width="550"/>
 </p>
