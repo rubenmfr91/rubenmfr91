@@ -13,5 +13,5 @@ Here’s a little about me:
 
 - Languages: C#, Golang, JavaScript, Java, TypeScript, Phyton, Kotlin, Swift, SQL.
 - Tools: Visual Studio, Git, Docker, Android Studio, XCode.
-- Frameworks:Angular, React, .NET, Echo.
+- Frameworks: Angular, React, .NET, Echo.
 
