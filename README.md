@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi world! 👋
 
-<!--
-**rubenmfr91/rubenmfr91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rubén Marcos Fraile, a passionate developer with a love for technology and innovation. 
+Here’s a little about me:
 
-Here are some ideas to get you started:
+- ☁️ Microsoft Azure - Amazon Web Services
+- 🔭 I’m actually working at Helops.io as a Developer and DevOps Engineer.
+- 📫 How to reach me: [rubenmfr91@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Languages: C#, Golang, JavaScript, Java, TypeScript, Phyton, Kotlin, Swift, SQL.
+- Tools: Visual Studio, Git, Docker, Android Studio, XCode.
+- Frameworks:Angular, React, .NET, Echo.
+
