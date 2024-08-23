@@ -1,4 +1,4 @@
-# Hi world! 👋
+## Hi world! 👋
 
 I'm Rubén Marcos Fraile, a passionate developer with a love for technology and innovation. 
 Here’s a little about me:
@@ -25,5 +25,5 @@ Here’s a little about me:
 ##☁️ Amazon Web Services Certifications
 
 <p align="center">
- <img src="https://github.com/rubenmfr91/rubenmfr91/blob/main/dva.png" alt="Amazon Web Services DVA-C01" width="150"/>
+ <img src="https://github.com/rubenmfr91/rubenmfr91/blob/main/dva.png" alt="Amazon Web Services DVA-C01" width="180"/>
 </p>
