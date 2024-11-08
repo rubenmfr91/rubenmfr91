@@ -4,8 +4,8 @@ I'm Rubén Marcos Fraile, a passionate developer with a love for technology and 
 Here’s a little about me:
 
 - ☁️ Microsoft Azure - Amazon Web Services
-- 🔭 I’m actually working at Helops.io as a Software Developer and DevOps Engineer.
-- 🤖 Developing my skills in Machine Learning and Generative AI on AWS.
+- 🔭 I’m actually working at Anadat Technology as a Software and DevoOps Engineer.
+- 🤖 Developing my skills Cloud Services and Automations.
   
 - 📫 How to reach me: [rubenmfr91@gmail.com]
 
