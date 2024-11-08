@@ -11,9 +11,9 @@ Here’s a little about me:
 
 ## 🚀 Skills
 
-- Languages: C#, Golang, JavaScript, Java, TypeScript, Phyton, Kotlin, Swift, SQL.
-- Tools: Visual Studio, Git, Docker, Android Studio, XCode.
-- Frameworks: Angular, React, .NET, Echo.
+- Languages: C#, Go, JS, TypeScript, Phyton.
+- Tools: Docker, Terraform, Kubernetes, GitHub Actions.
+- Frameworks: Angular, .NET.
 
 ## ☁️ My Certifications
 
